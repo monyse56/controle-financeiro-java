@@ -32,3 +32,19 @@ SistemaFinanceiro/
 └── Transacao.java 
 ├── utils/ │
 └── Relatorio.java
+
+
+## 🎓 Sobre o Projeto
+
+Este projeto foi desenvolvido como parte dos meus estudos na formação em Backend com Java, unindo teoria e prática de maneira didática. Ele também representa uma oportunidade para aplicar boas práticas de desenvolvimento, como modularização e clareza no código.
+
+## 🤝 Contribuições
+
+Sugestões, melhorias e feedbacks são sempre bem-vindos!
+
+---
+
+**Desenvolvido por:** [Monyse Moura](https://www.linkedin.com/in/monyse-moura-5b0759351)
+
+🔗 Repositório no GitHub: [github.com/seu-usuario/controle-financeiro-java](https://github.com/monyse56/controle-financeiro-java)
+
